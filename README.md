@@ -29,16 +29,6 @@ Font Awesome 6.5.1 for social media and menu icons
 
 AOS (Animate On Scroll) for scroll-based animations
 
-File Structure (suggested)
-text
-project-folder/
-│
-├─ index.html
-├─ style.css
-├─ script.js
-└─ assets/
-   └─ Profile image.jpg
-
 Introduction Paragraph:
 Modify the <p> description to reflect your own skills and tech stack.
 
